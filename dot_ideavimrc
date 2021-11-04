@@ -54,4 +54,4 @@ nnoremap <leader>r :action Rerun<CR>
 
 
 """ Sourcing .vimrc -------------------------
-source ~/.vim/vimrc
+source ~/.vimrc
