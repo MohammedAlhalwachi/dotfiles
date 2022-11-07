@@ -107,6 +107,8 @@ nnoremap <leader>s :action FileStructurePopup<CR>
 " map GotoAction
 nnoremap <leader>a :action GotoAction<CR>
 
+nnoremap M J
+
 " map open current file in project panel
 " nnoremap <leader>of :action :::TODO:::
 
