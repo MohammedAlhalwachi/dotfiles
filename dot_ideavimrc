@@ -32,6 +32,10 @@ nnoremap <leader>s :action FileStructurePopup<CR>
 nnoremap <leader>a :action GotoAction<CR>
 nnoremap <leader>r :action Rerun<CR>
 
+nnoremap <C-o> :action Back<CR>
+nnoremap <C-i> :action Forward<CR>
+
+
 " map open current file in project panel
 " nnoremap <leader>of :action :::TODO:::
 
